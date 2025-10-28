@@ -1,5 +1,12 @@
 [
     {
+        "title": "Automating technical documentation style at ING with Vale",
+        "url": "https://medium.com/ing-blog/automating-technical-documentation-at-ing-using-vale-699b9ce528eb",
+        "author": "Gina Hofstede | ING",
+        "year": 2025,
+        "type": "post"
+    },    
+    {
         "title": "How we use Vale to enforce better writing in docs and beyond",
         "url": "https://www.spectrocloud.com/blog/how-we-use-vale-to-enforce-better-writing-in-docs-and-beyond",
         "author": "Karl Cardenas | Spectro Cloud",
